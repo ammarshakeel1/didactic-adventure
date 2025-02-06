@@ -12,12 +12,13 @@ body {
     box-sizing: border-box;
 }
 
-.QR {
+.QR-card {
     background-color: hsl(0, 0%, 100%);
-    width: 300px;
-    height: 300px;
+    width: 90%;
+    max-width: 320px;
+    min-height: 500px;
+    max-height: 500px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,4 +26,39 @@ body {
     padding: 20px;
     text-align: center;
     margin: 10px;
+    padding: 15px;
 }
+
+.QR-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+ .QR-card h1 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.QR-card p {
+    font-size: 1rem;
+    color: hsl(220, 15%, 55%);
+}          
+
+@media screen and (max-width: 375px) {
+    .QR-card {
+        width: 90%;
+        min-width: auto;
+        padding: 10px;
+    }
+
+    .QR-card h1 {
+        font-size: 1.2rem;
+    }
+
+    .QR-card p {
+        font-size: 0.9rem;
+    }
+}
+
