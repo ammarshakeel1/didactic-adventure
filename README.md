@@ -37,8 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 This is my first try actually applying the things I learn online about web development, I learned a lot, such as the importance of properly structuring HTML code to setup for easy CSS styling. My biggest challenge was just remembering the different commands and such that I could use to complete the work. 
