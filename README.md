@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ammarshakeel1/didactic-adventure/tree/main)
-- Live Site URL: [Add live site URL here](https://ammarshakeel1.github.io/didactic-adventure/)
+- Solution URL: (https://github.com/ammarshakeel1/didactic-adventure/tree/main)
+- Live Site URL: (https://ammarshakeel1.github.io/didactic-adventure/)
 
 ## My process
 
@@ -64,5 +64,5 @@ Another challenge I had was that my CSS code stopped updating on my live server,
 ## Author
 
 - LinkedIn - [Ammar Shakeel](www.linkedin.com/in/ammar-shakeel-69436b282)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ammarshakeel1)
+- Frontend Mentor - [@ammarshakeel1](https://www.frontendmentor.io/profile/ammarshakeel1)
 
